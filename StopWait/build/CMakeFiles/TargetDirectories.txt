@@ -1,0 +1,6 @@
+/mnt/c/Users/86188/Desktop/NetworkLab2/Ubuntu_18.04.3_64_Desktop/StopWait/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/86188/Desktop/NetworkLab2/Ubuntu_18.04.3_64_Desktop/StopWait/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/86188/Desktop/NetworkLab2/Ubuntu_18.04.3_64_Desktop/StopWait/build/CMakeFiles/tcp.dir
+/mnt/c/Users/86188/Desktop/NetworkLab2/Ubuntu_18.04.3_64_Desktop/StopWait/build/CMakeFiles/sr.dir
+/mnt/c/Users/86188/Desktop/NetworkLab2/Ubuntu_18.04.3_64_Desktop/StopWait/build/CMakeFiles/go_back_n.dir
+/mnt/c/Users/86188/Desktop/NetworkLab2/Ubuntu_18.04.3_64_Desktop/StopWait/build/CMakeFiles/stop_wait.dir
